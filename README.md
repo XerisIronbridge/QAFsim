@@ -1,0 +1,2 @@
+# QAFsim
+Quantum mechanics sandbox 
